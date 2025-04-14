@@ -2,7 +2,7 @@ This project performs sentiment analysis on IMDB movie reviews using Natural Lan
 
 OWorkflow Summary
 1. Data Loading
-The dataset IMDB Dataset.csv is loaded, which contains two columns:
+The dataset IMDB_Dataset_Sample.csv is loaded, which contains two columns:
 
 review: the text of the review
 
